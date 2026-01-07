@@ -4,6 +4,6 @@
   },
   "devDependencies": {
     "@webgpu/types": "^0.1.68",
-    "vite": "^6.3.5"
+    "vite": "^7.3.1"
   }
 }
