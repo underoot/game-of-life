@@ -3,7 +3,7 @@
     "dev": "npx vite"
   },
   "devDependencies": {
-    "@webgpu/types": "^0.1.68",
+    "@webgpu/types": "^0.1.69",
     "vite": "^7.3.1"
   }
 }
